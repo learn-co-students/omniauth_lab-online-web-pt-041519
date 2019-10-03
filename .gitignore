@@ -43,3 +43,7 @@ jspm_packages
 /log/*
 !/log/.keep
 /tmp
+
+
+# Ignore .env file
+.env
